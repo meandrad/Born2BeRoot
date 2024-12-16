@@ -72,5 +72,8 @@ Develop a **bash script** called `monitoring.sh` that displays the following sys
 
 Use **cron** to automate the execution of the script.
 
-This README provides a summary of the **Born2beRoot** project. For further details, refer to the official 42 project instructions.
+## Recommendations
+Here are some useful resources to help you succeed in the Born2beRoot project:
 
+- [Born2beRoot Tutorial by gemartin99](https://github.com/gemartin99/Born2beroot-Tutorial)
+- [Acelera Born2BeRoot (Notion Guide)](https://rodsmade.notion.site/Acelera-Born2BeRoot-99adac7a7bdc4bbf81b4eaf977625d5c)
